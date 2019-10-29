@@ -1,4 +1,4 @@
-,Month,Airport,Number of Delays,Total Flights,Percent Delayed,Airport Name,Delay Category
+,Month,Airport,Number of Delays,Total Flights,Percent Delayed,Airport Name,Category
 0,1,ABE,74,316,0.234177215,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",3
 1,1,ABI,34,169,0.201183432,"Abilene, TX: Abilene Regional",2
 2,1,ABQ,257,1800,0.142777778,"Albuquerque, NM: Albuquerque International Sunport",2
@@ -250,7 +250,6 @@
 248,1,PIT,580,3780,0.153439153,"Pittsburgh, PA: Pittsburgh International",2
 249,1,PLN,16,76,0.210526316,"Pellston, MI: Pellston Regional Airport of Emmet County",2
 250,1,PNS,89,766,0.11618799,"Pensacola, FL: Pensacola International",2
-251,1,PPG,3,10,0.3,"Pago Pago, TT: Pago Pago International",3
 252,1,PSC,51,319,0.159874608,"Pasco/Kennewick/Richland, WA: Tri Cities",2
 253,1,PSE,12,70,0.171428571,"Ponce, PR: Mercedita",2
 254,1,PSG,5,62,0.080645161,"Petersburg, AK: Petersburg James A Johnson",1
