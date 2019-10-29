@@ -236,7 +236,6 @@
 234,1,OTZ,6,61,0.098360656,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 235,1,OWB,2,11,0.181818182,"Owensboro, KY: Owensboro Daviess County Regional",>8.3% and <23.3%
 236,1,PAH,9,57,0.157894737,"Paducah, KY: Barkley Regional",>8.3% and <23.3%
-237,1,PBG,15,64,0.234375,"Plattsburgh, NY: Plattsburgh International",>23.3% and <30.8%
 238,1,PBI,639,2522,0.253370341,"West Palm Beach/Palm Beach, FL: Palm Beach International",>23.3% and <30.8%
 239,1,PDX,494,4937,0.100060766,"Portland, OR: Portland International",>8.3% and <23.3%
 240,1,PGD,72,413,0.17433414,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -572,7 +571,6 @@
 571,2,OTZ,10,56,0.178571429,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 572,2,OWB,3,8,0.375,"Owensboro, KY: Owensboro Daviess County Regional",>30.8%
 573,2,PAH,11,54,0.203703704,"Paducah, KY: Barkley Regional",>8.3% and <23.3%
-574,2,PBG,13,79,0.164556962,"Plattsburgh, NY: Plattsburgh International",>8.3% and <23.3%
 575,2,PBI,443,2395,0.184968685,"West Palm Beach/Palm Beach, FL: Palm Beach International",>8.3% and <23.3%
 576,2,PDX,641,4417,0.145121123,"Portland, OR: Portland International",>8.3% and <23.3%
 577,2,PGD,91,459,0.198257081,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -586,7 +584,6 @@
 585,2,PIT,432,3482,0.124066628,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 586,2,PLN,12,68,0.176470588,"Pellston, MI: Pellston Regional Airport of Emmet County",>8.3% and <23.3%
 587,2,PNS,81,697,0.116212339,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-588,2,PPG,5,8,0.625,"Pago Pago, TT: Pago Pago International",>30.8%
 589,2,PSC,37,299,0.123745819,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 590,2,PSE,7,55,0.127272727,"Ponce, PR: Mercedita",>8.3% and <23.3%
 591,2,PSG,9,56,0.160714286,"Petersburg, AK: Petersburg James A Johnson",>8.3% and <23.3%
@@ -907,7 +904,6 @@
 906,3,OTZ,11,62,0.177419355,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 907,3,OWB,3,9,0.333333333,"Owensboro, KY: Owensboro Daviess County Regional",>30.8%
 908,3,PAH,7,62,0.112903226,"Paducah, KY: Barkley Regional",>8.3% and <23.3%
-909,3,PBG,29,111,0.261261261,"Plattsburgh, NY: Plattsburgh International",>23.3% and <30.8%
 910,3,PBI,634,2793,0.226996062,"West Palm Beach/Palm Beach, FL: Palm Beach International",>8.3% and <23.3%
 911,3,PDX,602,5141,0.117097841,"Portland, OR: Portland International",>8.3% and <23.3%
 912,3,PGD,94,617,0.152350081,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -921,7 +917,6 @@
 920,3,PIT,531,4115,0.129040097,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 921,3,PLN,8,75,0.106666667,"Pellston, MI: Pellston Regional Airport of Emmet County",>8.3% and <23.3%
 922,3,PNS,87,879,0.098976109,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-923,3,PPG,2,9,0.222222222,"Pago Pago, TT: Pago Pago International",>8.3% and <23.3%
 924,3,PSC,25,307,0.081433225,"Pasco/Kennewick/Richland, WA: Tri Cities",>0.8% and <8.3%
 925,3,PSE,17,62,0.274193548,"Ponce, PR: Mercedita",>23.3% and <30.8%
 926,3,PSG,2,62,0.032258065,"Petersburg, AK: Petersburg James A Johnson",>0.8% and <8.3%
@@ -1243,7 +1238,6 @@
 1242,4,OTZ,3,60,0.05,"Kotzebue, AK: Ralph Wien Memorial",>0.8% and <8.3%
 1243,4,OWB,6,9,0.666666667,"Owensboro, KY: Owensboro Daviess County Regional",>30.8%
 1244,4,PAH,1,60,0.016666667,"Paducah, KY: Barkley Regional",>0.8% and <8.3%
-1245,4,PBG,16,83,0.192771084,"Plattsburgh, NY: Plattsburgh International",>8.3% and <23.3%
 1246,4,PBI,606,2383,0.254301301,"West Palm Beach/Palm Beach, FL: Palm Beach International",>23.3% and <30.8%
 1247,4,PDX,596,4981,0.119654688,"Portland, OR: Portland International",>8.3% and <23.3%
 1248,4,PGD,104,487,0.213552361,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -1258,7 +1252,6 @@
 1257,4,PIT,545,4056,0.134368836,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 1258,4,PLN,5,80,0.0625,"Pellston, MI: Pellston Regional Airport of Emmet County",>0.8% and <8.3%
 1259,4,PNS,112,952,0.117647059,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-1260,4,PPG,3,8,0.375,"Pago Pago, TT: Pago Pago International",>30.8%
 1261,4,PSC,34,224,0.151785714,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 1262,4,PSE,17,60,0.283333333,"Ponce, PR: Mercedita",>23.3% and <30.8%
 1263,4,PSG,3,60,0.05,"Petersburg, AK: Petersburg James A Johnson",>0.8% and <8.3%
@@ -1583,7 +1576,6 @@
 1582,5,OTZ,7,62,0.112903226,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 1583,5,OWB,5,8,0.625,"Owensboro, KY: Owensboro Daviess County Regional",>30.8%
 1584,5,PAH,11,61,0.180327869,"Paducah, KY: Barkley Regional",>8.3% and <23.3%
-1585,5,PBG,12,45,0.266666667,"Plattsburgh, NY: Plattsburgh International",>23.3% and <30.8%
 1586,5,PBI,474,2098,0.225929457,"West Palm Beach/Palm Beach, FL: Palm Beach International",>8.3% and <23.3%
 1587,5,PDX,637,5255,0.121217888,"Portland, OR: Portland International",>8.3% and <23.3%
 1588,5,PGD,74,401,0.184538653,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -1598,7 +1590,6 @@
 1597,5,PIT,712,4205,0.169322235,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 1598,5,PLN,7,85,0.082352941,"Pellston, MI: Pellston Regional Airport of Emmet County",>0.8% and <8.3%
 1599,5,PNS,155,1032,0.150193798,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-1600,5,PPG,4,9,0.444444444,"Pago Pago, TT: Pago Pago International",>30.8%
 1601,5,PSC,35,224,0.15625,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 1602,5,PSE,16,62,0.258064516,"Ponce, PR: Mercedita",>23.3% and <30.8%
 1603,5,PSG,3,62,0.048387097,"Petersburg, AK: Petersburg James A Johnson",>0.8% and <8.3%
@@ -1929,7 +1920,6 @@
 1928,6,OTZ,1,60,0.016666667,"Kotzebue, AK: Ralph Wien Memorial",>0.8% and <8.3%
 1929,6,OWB,1,9,0.111111111,"Owensboro, KY: Owensboro Daviess County Regional",>8.3% and <23.3%
 1930,6,PAH,14,60,0.233333333,"Paducah, KY: Barkley Regional",>23.3% and <30.8%
-1931,6,PBG,14,45,0.311111111,"Plattsburgh, NY: Plattsburgh International",>30.8%
 1932,6,PBI,412,1816,0.226872247,"West Palm Beach/Palm Beach, FL: Palm Beach International",>8.3% and <23.3%
 1933,6,PDX,776,5584,0.138968481,"Portland, OR: Portland International",>8.3% and <23.3%
 1934,6,PGD,91,446,0.204035874,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -1944,7 +1934,6 @@
 1943,6,PIT,767,4254,0.180300893,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 1944,6,PLN,8,101,0.079207921,"Pellston, MI: Pellston Regional Airport of Emmet County",>0.8% and <8.3%
 1945,6,PNS,222,1105,0.200904977,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-1946,6,PPG,4,13,0.307692308,"Pago Pago, TT: Pago Pago International",>23.3% and <30.8%
 1947,6,PSC,46,301,0.15282392,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 1948,6,PSE,13,76,0.171052632,"Ponce, PR: Mercedita",>8.3% and <23.3%
 1949,6,PSG,5,60,0.083333333,"Petersburg, AK: Petersburg James A Johnson",>8.3% and <23.3%
@@ -2278,7 +2267,6 @@
 2277,7,OTZ,3,61,0.049180328,"Kotzebue, AK: Ralph Wien Memorial",>0.8% and <8.3%
 2278,7,OWB,2,9,0.222222222,"Owensboro, KY: Owensboro Daviess County Regional",>8.3% and <23.3%
 2279,7,PAH,6,61,0.098360656,"Paducah, KY: Barkley Regional",>8.3% and <23.3%
-2280,7,PBG,18,60,0.3,"Plattsburgh, NY: Plattsburgh International",>23.3% and <30.8%
 2281,7,PBI,502,1787,0.280917739,"West Palm Beach/Palm Beach, FL: Palm Beach International",>23.3% and <30.8%
 2282,7,PDX,904,6319,0.143060611,"Portland, OR: Portland International",>8.3% and <23.3%
 2283,7,PGD,135,465,0.290322581,"Punta Gorda, FL: Punta Gorda Airport",>23.3% and <30.8%
@@ -2293,7 +2281,6 @@
 2292,7,PIT,781,4344,0.179788214,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 2293,7,PLN,18,133,0.135338346,"Pellston, MI: Pellston Regional Airport of Emmet County",>8.3% and <23.3%
 2294,7,PNS,202,1125,0.179555556,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-2295,7,PPG,2,13,0.153846154,"Pago Pago, TT: Pago Pago International",>8.3% and <23.3%
 2296,7,PSC,42,277,0.151624549,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 2297,7,PSE,27,93,0.290322581,"Ponce, PR: Mercedita",>23.3% and <30.8%
 2298,7,PSG,3,62,0.048387097,"Petersburg, AK: Petersburg James A Johnson",>0.8% and <8.3%
@@ -2627,7 +2614,6 @@
 2626,8,OTZ,7,62,0.112903226,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 2627,8,OWB,5,9,0.555555556,"Owensboro, KY: Owensboro Daviess County Regional",>30.8%
 2628,8,PAH,15,62,0.241935484,"Paducah, KY: Barkley Regional",>23.3% and <30.8%
-2629,8,PBG,12,76,0.157894737,"Plattsburgh, NY: Plattsburgh International",>8.3% and <23.3%
 2630,8,PBI,384,1727,0.222350898,"West Palm Beach/Palm Beach, FL: Palm Beach International",>8.3% and <23.3%
 2631,8,PDX,1097,6195,0.177078289,"Portland, OR: Portland International",>8.3% and <23.3%
 2632,8,PGD,65,372,0.174731183,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -2642,7 +2628,6 @@
 2641,8,PIT,744,4314,0.172461752,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 2642,8,PLN,13,108,0.12037037,"Pellston, MI: Pellston Regional Airport of Emmet County",>8.3% and <23.3%
 2643,8,PNS,169,1062,0.15913371,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-2644,8,PPG,4,13,0.307692308,"Pago Pago, TT: Pago Pago International",>23.3% and <30.8%
 2645,8,PRC,0,5,0,"Prescott, AZ: Prescott Regional Ernest A Love Field",<0.8%
 2646,8,PSC,30,223,0.134529148,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 2647,8,PSE,30,76,0.394736842,"Ponce, PR: Mercedita",>30.8%
@@ -2973,7 +2958,6 @@
 2972,9,OTZ,6,60,0.1,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 2973,9,OWB,2,9,0.222222222,"Owensboro, KY: Owensboro Daviess County Regional",>8.3% and <23.3%
 2974,9,PAH,3,60,0.05,"Paducah, KY: Barkley Regional",>0.8% and <8.3%
-2975,9,PBG,5,73,0.068493151,"Plattsburgh, NY: Plattsburgh International",>0.8% and <8.3%
 2976,9,PBI,254,1516,0.167546174,"West Palm Beach/Palm Beach, FL: Palm Beach International",>8.3% and <23.3%
 2977,9,PDX,545,5246,0.103888677,"Portland, OR: Portland International",>8.3% and <23.3%
 2978,9,PGD,27,261,0.103448276,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -2988,7 +2972,6 @@
 2987,9,PIT,547,4022,0.136001989,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 2988,9,PLN,12,81,0.148148148,"Pellston, MI: Pellston Regional Airport of Emmet County",>8.3% and <23.3%
 2989,9,PNS,114,970,0.117525773,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-2990,9,PPG,2,8,0.25,"Pago Pago, TT: Pago Pago International",>23.3% and <30.8%
 2991,9,PRC,10,55,0.181818182,"Prescott, AZ: Prescott Regional Ernest A Love Field",>8.3% and <23.3%
 2992,9,PSC,20,178,0.112359551,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 2993,9,PSE,5,55,0.090909091,"Ponce, PR: Mercedita",>8.3% and <23.3%
@@ -3319,7 +3302,6 @@
 3318,10,OTZ,7,62,0.112903226,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 3319,10,OWB,1,11,0.090909091,"Owensboro, KY: Owensboro Daviess County Regional",>8.3% and <23.3%
 3320,10,PAH,14,62,0.225806452,"Paducah, KY: Barkley Regional",>8.3% and <23.3%
-3321,10,PBG,14,96,0.145833333,"Plattsburgh, NY: Plattsburgh International",>8.3% and <23.3%
 3322,10,PBI,252,1657,0.152082076,"West Palm Beach/Palm Beach, FL: Palm Beach International",>8.3% and <23.3%
 3323,10,PDX,603,5195,0.116073147,"Portland, OR: Portland International",>8.3% and <23.3%
 3324,10,PGD,40,429,0.093240093,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -3334,7 +3316,6 @@
 3333,10,PIT,552,4314,0.127955494,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 3334,10,PLN,7,76,0.092105263,"Pellston, MI: Pellston Regional Airport of Emmet County",>8.3% and <23.3%
 3335,10,PNS,106,970,0.109278351,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-3336,10,PPG,3,9,0.333333333,"Pago Pago, TT: Pago Pago International",>30.8%
 3337,10,PRC,7,58,0.120689655,"Prescott, AZ: Prescott Regional Ernest A Love Field",>8.3% and <23.3%
 3338,10,PSC,17,146,0.116438356,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 3339,10,PSE,3,50,0.06,"Ponce, PR: Mercedita",>0.8% and <8.3%
@@ -3664,7 +3645,6 @@
 3663,11,OTZ,9,56,0.160714286,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 3664,11,OWB,5,9,0.555555556,"Owensboro, KY: Owensboro Daviess County Regional",>30.8%
 3665,11,PAH,5,59,0.084745763,"Paducah, KY: Barkley Regional",>8.3% and <23.3%
-3666,11,PBG,19,107,0.177570093,"Plattsburgh, NY: Plattsburgh International",>8.3% and <23.3%
 3667,11,PBI,492,2005,0.245386534,"West Palm Beach/Palm Beach, FL: Palm Beach International",>23.3% and <30.8%
 3668,11,PDX,621,4947,0.125530625,"Portland, OR: Portland International",>8.3% and <23.3%
 3669,11,PGD,50,430,0.11627907,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -3679,7 +3659,6 @@
 3678,11,PIT,624,4158,0.15007215,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 3679,11,PLN,8,74,0.108108108,"Pellston, MI: Pellston Regional Airport of Emmet County",>8.3% and <23.3%
 3680,11,PNS,146,909,0.160616062,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-3681,11,PPG,1,9,0.111111111,"Pago Pago, TT: Pago Pago International",>8.3% and <23.3%
 3682,11,PRC,7,56,0.125,"Prescott, AZ: Prescott Regional Ernest A Love Field",>8.3% and <23.3%
 3683,11,PSC,30,186,0.161290323,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 3684,11,PSE,16,59,0.271186441,"Ponce, PR: Mercedita",>23.3% and <30.8%
@@ -4011,7 +3990,6 @@
 4010,12,OTZ,12,60,0.2,"Kotzebue, AK: Ralph Wien Memorial",>8.3% and <23.3%
 4011,12,OWB,4,10,0.4,"Owensboro, KY: Owensboro Daviess County Regional",>30.8%
 4012,12,PAH,9,61,0.147540984,"Paducah, KY: Barkley Regional",>8.3% and <23.3%
-4013,12,PBG,20,113,0.17699115,"Plattsburgh, NY: Plattsburgh International",>8.3% and <23.3%
 4014,12,PBI,552,2384,0.231543624,"West Palm Beach/Palm Beach, FL: Palm Beach International",>8.3% and <23.3%
 4015,12,PDX,627,4862,0.128959276,"Portland, OR: Portland International",>8.3% and <23.3%
 4016,12,PGD,71,443,0.16027088,"Punta Gorda, FL: Punta Gorda Airport",>8.3% and <23.3%
@@ -4025,7 +4003,6 @@
 4024,12,PIT,598,4069,0.146964856,"Pittsburgh, PA: Pittsburgh International",>8.3% and <23.3%
 4025,12,PLN,11,70,0.157142857,"Pellston, MI: Pellston Regional Airport of Emmet County",>8.3% and <23.3%
 4026,12,PNS,141,919,0.153427639,"Pensacola, FL: Pensacola International",>8.3% and <23.3%
-4027,12,PPG,1,13,0.076923077,"Pago Pago, TT: Pago Pago International",>0.8% and <8.3%
 4028,12,PRC,9,62,0.14516129,"Prescott, AZ: Prescott Regional Ernest A Love Field",>8.3% and <23.3%
 4029,12,PSC,30,202,0.148514851,"Pasco/Kennewick/Richland, WA: Tri Cities",>8.3% and <23.3%
 4030,12,PSE,17,74,0.22972973,"Ponce, PR: Mercedita",>8.3% and <23.3%
